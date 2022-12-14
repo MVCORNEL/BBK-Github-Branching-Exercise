@@ -47,3 +47,9 @@
 **[EDIT README]**  
 **git add .**  
 **git commit -m "Commit 5"**
+
+## Step 7
+
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 6"**
