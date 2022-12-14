@@ -23,3 +23,10 @@
 **git status**  
 **git commit -m "Commit 2"**  
 **git log**
+
+## Step 11
+
+**git checkout master**  
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 10"**
