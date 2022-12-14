@@ -7,3 +7,11 @@
 **git init**  
 **git add .**  
 **git commit -m "Commit 0"**
+
+## Step 2
+
+**[EDIT README]**  
+**git add .**  
+**git status**  
+**git commit -m "Commit 1"**  
+**git log**
