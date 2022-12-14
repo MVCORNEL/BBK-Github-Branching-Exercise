@@ -15,3 +15,11 @@
 **git status**  
 **git commit -m "Commit 1"**  
 **git log**
+
+## Step 3
+
+**[EDIT README]**  
+**git add .**  
+**git status**  
+**git commit -m "Commit 2"**  
+**git log**
