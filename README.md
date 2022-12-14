@@ -8,6 +8,22 @@
 **git add .**  
 **git commit -m "Commit 0"**
 
+## Step 2
+
+**[EDIT README]**  
+**git add .**  
+**git status**  
+**git commit -m "Commit 1"**  
+**git log**
+
+## Step 3
+
+**[EDIT README]**  
+**git add .**  
+**git status**  
+**git commit -m "Commit 2"**  
+**git log**
+
 ## Step 4
 
 **git checkout fbfb34e2ce9e5bfec49c0be77725636be7e69374**  
@@ -23,3 +39,11 @@
 **[EDIT README]**  
 **git add .**  
 **git commit -m "Commit 4"**
+
+## Step 6
+
+**git merge master**  
+**[SOLVE MERGE CONFLICTS]**  
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 5"**
