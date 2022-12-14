@@ -32,3 +32,9 @@
 **[EDIT README]**  
 **git add .**  
 **git commit -m "Commit 7"**
+
+## Step 9
+
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 8"**
