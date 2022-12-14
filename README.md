@@ -17,3 +17,9 @@
 **git add .**  
 **git commit -m "Commit 3"**  
 **git log --graph**
+
+## Step 5
+
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 4"**
