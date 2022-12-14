@@ -105,3 +105,11 @@
 **[EDIT README]**  
 **git add .**  
 **git commit -m "Commit 13"**
+
+## Step 15
+
+**[EDIT README]**  
+**[CREATE GRAPH IMAGE]**  
+**git add Graph.PNG**  
+**git add FILE.md**  
+**git commit -m "Commit 14"**
