@@ -23,3 +23,12 @@
 **[EDIT README]**  
 **git add .**  
 **git commit -m "Commit 4"**
+
+## Step 8
+
+**git checkout e5b39ec**  
+**git branch bug-fix-experimental**  
+**git checkout bug-fix-experimental**  
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 7"**
