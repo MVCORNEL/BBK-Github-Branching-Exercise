@@ -53,3 +53,33 @@
 **[EDIT README]**  
 **git add .**  
 **git commit -m "Commit 6"**
+
+## Step 8
+
+**git checkout e5b39ec**  
+**git branch bug-fix-experimental**  
+**git checkout bug-fix-experimental**  
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 7"**
+
+## Step 9
+
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 8"**
+
+## Step 10
+
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 9"**
+
+## Step 12
+
+**git checkout bug-fix**  
+**git merge bug-fix-experimental**  
+**[SOLVE MERGE CONFLICTS]**  
+**[EDIT README]**  
+**git add .**  
+**git commit -m "Commit 11"**
